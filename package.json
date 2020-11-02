@@ -12,7 +12,7 @@
     "lodash": "^4.17.19",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.14",
-    "node-sass-chokidar": "^1.0.0",
+    "node-sass-chokidar": "^1.4.0",
     "normalize.css": "^7.0.0",
     "npm-run-all": "^4.1.2",
     "qs": "^6.5.1",
